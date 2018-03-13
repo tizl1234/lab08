@@ -1,0 +1,4 @@
+/Users/e.chernikova/kit10000000/workspace/projects/lab04/_install/lib/libprint.a
+/Users/e.chernikova/kit10000000/workspace/projects/lab04/_install/include/print.hpp
+/Users/e.chernikova/kit10000000/workspace/projects/lab04/_install/cmake/print-config.cmake
+/Users/e.chernikova/kit10000000/workspace/projects/lab04/_install/cmake/print-config-noconfig.cmake
