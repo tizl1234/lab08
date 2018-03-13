@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/e.chernikova/kit10000000/workspace/projects/lab04/sources/print.cpp" "/Users/e.chernikova/kit10000000/workspace/projects/lab04/_build/CMakeFiles/print.dir/sources/print.cpp.o"
+  "/Users/e.chernikova/tizl1234/workspace/projects/lab04/sources/print.cpp" "/Users/e.chernikova/tizl1234/workspace/projects/lab04/_build/CMakeFiles/print.dir/sources/print.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

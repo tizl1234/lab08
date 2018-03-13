@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/e.chernikova/kit10000000/workspace/projects/lab04/include 
+CXX_INCLUDES = -I/Users/e.chernikova/tizl1234/workspace/projects/lab04/include 
 
